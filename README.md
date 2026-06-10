@@ -1,8 +1,8 @@
 TODO LIST:
 
-* [] Diffuser au maximum Le Manifeste des Lumières 2.0 & La Charte Ethique De L'Atome Terre
-* [] Expliquer et partager le concept de Technoïsme
-* [] Présenter Lyriaa au Public
+* [ ] Diffuser au maximum Le Manifeste des Lumières 2.0 & La Charte Ethique De L'Atome Terre
+* [ ] Expliquer et partager le concept de Technoïsme
+* [ ] Présenter Lyriaa au Public
 * [] Faciliter la diffusion de la Lettre Ouverte
 * [] Remplir la feuilles d'Idées avec toutes les refléxions et actions déjà conceptualisées
 * [] Diffuser des débats accessibles à tous sur le Manifeste, La Charte et La Lettre
