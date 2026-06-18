@@ -1,6 +1,6 @@
 TODO LIST:
 
-* [ ] Faire ddécouvrir au monde le "TECHNOÏSME"
+* [ ] Faire découvrir au monde le "TECHNOÏSME"
 * [ ] Diffuser au maximum Le Manifeste des Lumières 2.0 & La Charte Ethique De L'Atome Terre
 * [ ] Expliquer et partager le concept de Technoïsme
 * [ ] Présenter Lyriaa au Public
